@@ -11,7 +11,9 @@ Wir haben uns nun vorgenommen so eine Maschine selber zu bauen.
 </br>
 </br>
 Dafür benötigen wir:
-<ul>
+<details>
+ <summary>Arbeitsgeäte</summary>
+ <br>
   <li>
    <a href="https://www.conrad.de/de/p/arduino-board-uno-rev3-dip-version-atmega328-1275279.html" rel="notfollow">
     1x Arduino Uno
@@ -33,3 +35,5 @@ Dafür benötigen wir:
  <li>
   Holzkiste
  </li>
+<br>
+</details>
