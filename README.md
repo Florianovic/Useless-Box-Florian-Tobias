@@ -9,6 +9,7 @@ trendete.
 </br>
 Wir haben uns nun vorgenommen so eine Maschine selber zu bauen.
 </br>
+</br>
 Dafür benötigen wir:
 <ul>
   <li>
