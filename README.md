@@ -13,8 +13,22 @@ Dafür benötigen wir:
 <ul>
   <li>
    <a href="https://www.conrad.de/de/p/arduino-board-uno-rev3-dip-version-atmega328-1275279.html" rel="notfollow">
-    "1x Arduino Uno
+    1x Arduino Uno
    </a>
   </li>
   <li>
-   <a 
+   <a href="https://www.conrad.de/de/p/graupner-standard-servo-des-577-bb-digital-servo-getriebe-material-carbon-stecksystem-jr-2125787.html" rel="notfollow">
+    2x Servo
+   </a>
+ </li>
+ <li>
+  <a href="https://www.conrad.de/de/p/tru-components-0165-40-8-8010-steckplatine-transparent-polzahl-gesamt-400-l-x-b-x-h-84-x-54-3-x-9-mm-1-st-1572787.html" rel="notfollow">
+   1x Steckbrett
+  </a>
+ </li>
+ <li>
+  Diverse Kabel
+ </li>
+ <li>
+  Holzkiste
+ </li>
