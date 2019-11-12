@@ -11,8 +11,6 @@ Wir haben uns nun vorgenommen so eine Maschine selber zu bauen.
 </br>
 </br>
 Dafür benötigen wir:
- <summary>Arbeitsgeäte</summary>
- <br>
   <li>
    <a href="https://www.conrad.de/de/p/arduino-board-uno-rev3-dip-version-atmega328-1275279.html" rel="notfollow">
     1x Arduino Uno
@@ -28,6 +26,16 @@ Dafür benötigen wir:
    1x Steckbrett
   </a>
  </li>
+ <li> 
+  <a href="https://www.conrad.de/de/p/goobay-knx-1-kippschalter-250-v-ac-3-a-1-x-ein-ein-rastend-1-st-701343.html" rel="notfollow">
+  2x Kippschalter
+  </a>
+ </li>
+ <li>
+ <a href="" rel="notfollow">
+  Stromversorgung
+ </a>
+ </li>
  <li>
   Diverse Kabel
  </li>
@@ -35,4 +43,3 @@ Dafür benötigen wir:
   Holzkiste
  </li>
 <br>
-
