@@ -11,7 +11,6 @@ Wir haben uns nun vorgenommen so eine Maschine selber zu bauen.
 </br>
 </br>
 Dafür benötigen wir:
-<details>
  <summary>Arbeitsgeäte</summary>
  <br>
   <li>
@@ -36,4 +35,4 @@ Dafür benötigen wir:
   Holzkiste
  </li>
 <br>
-</details>
+
