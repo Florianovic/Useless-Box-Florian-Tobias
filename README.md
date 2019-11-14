@@ -9,13 +9,17 @@ Wir haben uns nun vorgenommen so eine Maschine selber zu bauen.
 <br>
 Es folgt zu dem Projekt eine <a href="#komponenten">Komponentenliste</a>, eine <a href="#bauen">Bauanleitung</a>und eine <a href="#code">Erklärung des Codes</a>:
 ## Inshaltsverzeichnis
- * <a href="#komponenten"> Komponenten </a>
- * <a href="#bauen"> Bauanleitung </a>
- * <a href="#code"> Erklärung des Codes </a>
-  +<a href="#setup"> Setup-Funktion </a>
-  +<a href="#loop"> Loop-Funktion </a>
- * <a href="#endprodukt"> Endprodukt </a>
- * <a href="#quellen"> Quellen </a>
+ <ol>
+  <li><a href="#komponenten"> Komponenten </a></li>
+  <li><a href="#bauen"> Bauanleitung </a></li>
+  <li><a href="#code"> Erklärung des Codes </a></li>
+   <ol>
+    <li><a href="#setup"> Setup-Funktion </a></li>
+    <li><a href="#loop"> Loop-Funktion </a></li>
+   </ol>
+  <li><a href="#endprodukt"> Endprodukt </a></li>
+  <li><a href="#quellen"> Quellen </a></li>
+ </ol>
 </br>
 <h2 id="komponenten"> Dafür benötigen wir:</h2>
   <li>
