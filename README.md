@@ -8,7 +8,7 @@ Eine Useless Box ist eine Kiste an dessen Oberfläche ein Schalter befestigt ist
 Wir haben uns nun vorgenommen so eine Maschine selber zu bauen.
 <br>
 Es folgt zu dem Projekt eine <a href="#komponenten">Komponentenliste</a>, eine <a href="#bauen">Bauanleitung</a>und eine <a href="#code">Erklärung des Codes</a>:
-##Inshaltsverzeichnis
+## Inshaltsverzeichnis
  * <a href="#komponenten"> Komponenten </a>
  * <a href="#bauen"> Bauanleitung </a>
  * <a href="#code"> Erklärung des Codes </a>
