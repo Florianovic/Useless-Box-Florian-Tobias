@@ -8,7 +8,8 @@ Eine Useless Box ist eine Kiste an dessen Oberfläche ein Schalter befestigt ist
 Wir haben uns nun vorgenommen so eine Maschine selber zu bauen.
 <br>
 Es folgt zu dem Projekt eine <a href="#komponenten">Komponentenliste</a>, eine <a href="#bauen">Bauanleitung</a>und eine <a href="#code">Erklärung des Codes</a>:
-## Inshaltsverzeichnis
+<br>
+<h2>Inshaltsverzeichnis</h2>
  <ol>
   <li><a href="#komponenten"> Komponenten </a></li>
   <li><a href="#bauen"> Bauanleitung </a></li>
@@ -21,7 +22,7 @@ Es folgt zu dem Projekt eine <a href="#komponenten">Komponentenliste</a>, eine <
   <li><a href="#quellen"> Quellen </a></li>
  </ol>
 </br>
-<h2 id="komponenten"> Dafür benötigen wir:</h2>
+<h2 id="komponenten">Wir benötigen:</h2>
   <li>
    <a href="https://www.conrad.de/de/p/arduino-board-uno-rev3-dip-version-atmega328-1275279.html" rel="notfollow">
     1x Arduino Uno
