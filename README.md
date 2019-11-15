@@ -58,13 +58,23 @@ Es folgt zu dem Projekt eine <a href="#komponenten">Komponentenliste</a>, eine <
 //Hier Text mit Bauanleitung einfügen//
 <br>
 <h2 id="code">Der Code</h2>
+<p><img width="400px" src="https://github.com/Florianovic/Useless-Box-Florian-Tobias/blob/master/CodeUB.PNG"></p> 
 <br>
-Als Erstes wird mit dem Befehl
-<p><img width="200px" src="https://github.com/Florianovic/Useless-Box-Florian-Tobias/blob/master/CodeUB%20(2).PNG"></p> 
-die Datenbank angesteuert, welche benötigt wird um die Servomotoren anzusteuern.
-<br>
+Als Erstes wird die Datenbank angesteuert, welche benötigt wird um die Servomotoren anzusteuern.
 <br>
 Dann wird mit dem nächsten Befehl die Anlaufstelle für den Schalter definiert, welcher am Ende das Skript aktiviert.
 <p><img width="200px" scr="https://github.com/Florianovic/Useless-Box-Florian-Tobias/blob/master/CodeUB%20(3).PNG"></p>
 <br>
+Als Letztes wird den beiden Servos ein Name zugewiesen. Wir haben uns der Einfachheit halber für h und z entschieden. h steht hierbei für Hand und z für Zunge, da es unser ursprünglicher Plan war, dass der Deckel von einer "Hand" angehoben wird und dann eine Zunge herrauskommt und den Schalter wieder umlegt.
+<p><img width="200px" scr="https://github.com/Florianovic/Useless-Box-Florian-Tobias/blob/master/CodeUB%20(4).PNG"></p>
+
 <h3 id="setup">Der Setup</h3>
+In diesem Schritt wird den Servos eine Anlaufstelle auf dem Arduino zugewiesen und dem Pin 12, an welchem der Schalter befestigt ist, signalisiert, dass an dieser Stelle ein Signal angenommen werden soll, also ein "Input" erwartet wird.
+<p><img width="200px" scr="https://github.com/Florianovic/Useless-Box-Florian-Tobias/blob/master/CodeUB%20(5).PNG"></p>
+
+<h3 id="loop">Der Loop</h3>
+Hier ist das Herzstück des Skriptes.
+<p><img width="200px" scr="https://github.com/Florianovic/Useless-Box-Florian-Tobias/blob/master/CodeUB%20(6).PNG"></p>
+In ersten Schritt wird festgelegt, dass wenn der Schalter umgelegt wird, also auf "High" gestellt wird, erst Servo h sich auf die Position 100 bewegt und den Deckel öffnet, dann eine Pause vonn einer halben Sekunde entsteht (der Arduino zählt in Millisekunden, desshalb 500) und sich schließlich Servo z auf die Position 70 bewegt. Das ist gerade so weit, damit der Schalter wieder umgelegt werden kann.
+</br>
+Im zweiten Schritt wird festgelegt, was passiert, wenn der Schalter nicht umgelegt ist oder, wie es in unserem Fall ist, wieder deaktiviert wurde. Zu erst bewegt sich die Servo z wieder in ihre Ausgangsposition bei 0. Danach ist wieder eine halbe Sekunde Pause bis sich Servo h in Bewegung setzt und sich ebenfalls auf Position 0 bewegt, womit der Deckel wieder geschlossen wird.
