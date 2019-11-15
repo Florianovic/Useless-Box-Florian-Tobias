@@ -44,7 +44,6 @@ Es folgt zu dem Projekt eine <a href="#komponenten">Komponentenliste</a>, eine <
   </a>
  </li>
  <li>
- <a href="" rel="notfollow">
   Stromversorgung
  </a>
  </li>
@@ -55,4 +54,8 @@ Es folgt zu dem Projekt eine <a href="#komponenten">Komponentenliste</a>, eine <
   Holzkiste
  </li>
 <br>
-
+<h2 id="bauen">Bauanleitung</h2>
+//Hier Text mit Bauanleitung einfügen//
+<br>
+<h2 id="code">Der Code</h2>
+Als Erstes wird mit dem Befehl <br><br> die Datenbank angesteuert, welche benötigt wird um die Servomotoren anzusteuern.
