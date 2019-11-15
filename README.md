@@ -75,3 +75,4 @@ Im ersten Schritt wird festgelegt, dass wenn der Schalter umgelegt wird, also au
 <br>
 Im zweiten Schritt wird festgelegt, was passiert, wenn der Schalter nicht umgelegt ist oder, wie es in unserem Fall ist, wieder deaktiviert wurde. Zu erst bewegt sich die Servo "z" wieder in ihre Ausgangsposition bei 0. Danach ist wieder eine halbe Sekunde Pause bis sich Servo "h" in Bewegung setzt und sich ebenfalls auf Position 0 bewegt, womit der Deckel wieder geschlossen wird.
 <h2 id="endprodukt">Das Endergebnis</h2>
+<p align="center"><a href="https://www.youtube.com/watch?v=3LayQnIBA4o"><img src="" width="400px"><br>Link zu einem Video</a></p>
