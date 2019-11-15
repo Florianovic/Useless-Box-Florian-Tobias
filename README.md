@@ -95,7 +95,7 @@ else{ <br>
 <h2 id="endprodukt">Das Endergebnis</h2>
 <p align="center"><a href="https://www.youtube.com/watch?v=3LayQnIBA4o"><img src="https://github.com/tobias2215/InformatikFlorianTobias/blob/master/UB1.PNG" width="400px"><br>Link zum Video</a></p>
 <h2 id="quellen">Unsere Quellen</h2>
-Natürlich haben wir uns im Laufe dieses Projektes an mehreren Quellen bedient um dieses Endprodukt zu Schaffen
+Natürlich haben wir uns im Laufe dieses Projektes an mehreren Quellen bedient um dieses Endprodukt zu Schaffen:
 <ul>
- <li>Projekt <a href="https://github.com/lukas2311/Audio_Spectrum_Analyser-Lukas-Torben/blob/master/README.md">"Spektrum-Analyser"</a> für einen großen Teil des codens mit GitHub</li>
+ <li>Projekt <a href="https://github.com/lukas2311/Audio_Spectrum_Analyser-Lukas-Torben/blob/master/README.md">"Spektrum-Analyser"</a> für einen großen Teil der Sprache mit welcher GitHub funktioniert</li>
  <li>[Hier Text einfügen]<a href="Hier Link einsetzen">Name des Objektes</a>...</li>
