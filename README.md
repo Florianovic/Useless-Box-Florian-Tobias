@@ -114,8 +114,7 @@ Unser Stundenprotokoll https://github.com/Florianovic/InformatikFlorianTobias
 Natürlich haben wir uns im Laufe dieses Projektes an mehreren Quellen bedient um dieses Endprodukt zu Schaffen:
 <ul>
  <li>Das <a href="https://www.youtube.com/watch?v=cpdjQ0gheDQ">Video</a> an welchem wir uns orientiert haben</li>
+ <li> Die Website von <a href="https://www.arduino.cc/">Arduino</a></li>
  <li>Projekt <a href="https://github.com/lukas2311/Audio_Spectrum_Analyser-Lukas-Torben/blob/master/README.md">"Spektrum-Analyser"</a> für einen großen Teil der Sprache mit welcher GitHub funktioniert</li>
- 
- https://www.youtube.com/watch?v=0wAY3DYihyg&list=PLAB63281B90FB376E
- 
- https://www.youtube.com/watch?v=PrMgJSGK0Ls&t=163s
+ <li>https://www.youtube.com/watch?v=0wAY3DYihyg&list=PLAB63281B90FB376E</li>
+ <li>https://www.youtube.com/watch?v=PrMgJSGK0Ls&t=163s</li>
