@@ -115,4 +115,4 @@ Natürlich haben wir uns im Laufe dieses Projektes an mehreren Quellen bedient u
  <li> Die Website von <a href="https://www.arduino.cc/">Arduino</a></li>
  <li>Projekt <a href="https://github.com/lukas2311/Audio_Spectrum_Analyser-Lukas-Torben/blob/master/README.md">"Spektrum-Analyser"</a> für einen großen Teil der Sprache mit welcher GitHub funktioniert</li>
  <li>https://www.youtube.com/watch?v=0wAY3DYihyg&list=PLAB63281B90FB376E</li>
- <li>https://www.youtube.com/watch?v=PrMgJSGK0Ls&t=163s</li>
+ <li><a href="https://www.youtube.com/watch?v=PrMgJSGK0Ls&t=163s">YouTube Tutorial für die Servos</a></li>
