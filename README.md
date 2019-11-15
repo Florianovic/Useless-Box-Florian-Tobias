@@ -71,8 +71,9 @@ An die Servos kommt jeweils noch eine Verlängerung. Für den Servo der den Deck
 <br>
 Als Erstes wird die Datenbank angesteuert, welche benötigt wird um die Servomotoren anzusteuern.<br><br>
 ```ruby
-#include<Servo.h>
+#include (Servo.h)
 ```
+<br>Die Klammern wurden Zwecks Programmfehlers verändert.
 <br><br>
 Dann wird mit dem nächsten Befehl die Anlaufstelle für den Schalter definiert, welcher am Ende das Skript aktiviert.
 <br><br>
