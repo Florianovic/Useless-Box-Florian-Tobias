@@ -60,15 +60,13 @@ Es folgt zu dem Projekt eine <a href="#komponenten">Komponentenliste</a>, eine <
 <h2 id="code">Der Code</h2>
 <p><img width="400px" src="https://github.com/Florianovic/Useless-Box-Florian-Tobias/blob/master/CodeUB.PNG"></p> 
 <br>
-Als Erstes wird die Datenbank angesteuert, welche benötigt wird um die Servomotoren anzusteuern.<br>
-
+Als Erstes wird die Datenbank angesteuert, welche benötigt wird um die Servomotoren anzusteuern.<br><br>
 #include<Servo.h>
-
-<br>
+<br><br>
 Dann wird mit dem nächsten Befehl die Anlaufstelle für den Schalter definiert, welcher am Ende das Skript aktiviert.
-<br>
+<br><br>
 const int buttonPin = 12
-<br>
+<br><br>
 Als Letztes wird den beiden Servos ein Name zugewiesen. 
 <br><br>
 Servo h;
