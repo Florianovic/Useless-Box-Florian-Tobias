@@ -58,4 +58,4 @@ Es folgt zu dem Projekt eine <a href="#komponenten">Komponentenliste</a>, eine <
 //Hier Text mit Bauanleitung einfügen//
 <br>
 <h2 id="code">Der Code</h2>
-Als Erstes wird mit dem Befehl <br><br> die Datenbank angesteuert, welche benötigt wird um die Servomotoren anzusteuern.
+Als Erstes wird mit dem Befehl <br>![CodeUB (2)](https://github.com/Florianovic/Useless-Box-Florian-Tobias/blob/master/CodeUB%20(2).PNG)<br> die Datenbank angesteuert, welche benötigt wird um die Servomotoren anzusteuern.
