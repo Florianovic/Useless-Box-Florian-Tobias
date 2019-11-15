@@ -63,6 +63,5 @@ Als Erstes wird mit dem Befehl
 <p><img width="200px" src="https://github.com/Florianovic/Useless-Box-Florian-Tobias/blob/master/CodeUB%20(2).PNG"></p> 
 die Datenbank angesteuert, welche benötigt wird um die Servomotoren anzusteuern.
 </br>
-Dann wird mit dem Befehl
+Dann wird mit dem nächsten Befehl die Anlaufstelle für den Schalter definiert, welcher am Ende das Skript aktiviert.
 <p><img width="200px" scr="https://github.com/Florianovic/Useless-Box-Florian-Tobias/blob/master/CodeUB%20(3).PNG"></p>
-die Anlaufstelle für den Schalter definiert, welcher am Ende das Skript aktiviert.
