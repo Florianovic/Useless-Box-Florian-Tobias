@@ -18,7 +18,7 @@ Es folgt zu dem Projekt eine <a href="#komponenten">Komponentenliste</a>, eine <
     <li><a href="#setup"> Setup-Funktion </a></li>
     <li><a href="#loop"> Loop-Funktion </a></li>
    </ol>
-  <li><a href="#endprodukt"> Endprodukt </a></li>
+  <li><a href="#endprodukt"> Endergebnis </a></li>
   <li><a href="#quellen"> Quellen </a></li>
  </ol>
 </br>
