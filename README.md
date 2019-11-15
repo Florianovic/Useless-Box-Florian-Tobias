@@ -69,7 +69,7 @@ const int buttonPin = 12
 <br><br>
 Als Letztes wird den beiden Servos ein Name zugewiesen. 
 <br><br>
-Servo h;
+Servo h;<br>
 Servo z; <br><br>
 Wir haben uns der Einfachheit halber für "h" und "z" entschieden. "h" steht hierbei für Hand und "z" für Zunge, da es unser ursprünglicher Plan war, dass der Deckel von einer "Hand" angehoben wird und dann eine "Zunge" herrauskommt und den Schalter wieder umlegt.
 
