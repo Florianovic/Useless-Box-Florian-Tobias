@@ -75,4 +75,9 @@ Im ersten Schritt wird festgelegt, dass wenn der Schalter umgelegt wird, also au
 <br>
 Im zweiten Schritt wird festgelegt, was passiert, wenn der Schalter nicht umgelegt ist oder, wie es in unserem Fall ist, wieder deaktiviert wurde. Zu erst bewegt sich die Servo "z" wieder in ihre Ausgangsposition bei 0. Danach ist wieder eine halbe Sekunde Pause bis sich Servo "h" in Bewegung setzt und sich ebenfalls auf Position 0 bewegt, womit der Deckel wieder geschlossen wird.
 <h2 id="endprodukt">Das Endergebnis</h2>
-<p align="center"><a href="https://www.youtube.com/watch?v=3LayQnIBA4o"><img src="https://github.com/tobias2215/InformatikFlorianTobias/blob/master/UB1.PNG" width="400px"><br>Link zu einem Video</a></p>
+<p align="center"><a href="https://www.youtube.com/watch?v=3LayQnIBA4o"><img src="https://github.com/tobias2215/InformatikFlorianTobias/blob/master/UB1.PNG" width="400px"><br>Link zum Video</a></p>
+<h2 id="quellen">Unsere Quellen</h2>
+Natürlich haben wir uns im Laufe dieses Projektes an mehreren Quellen bedient um dieses Endprodukt zu Schaffen
+<ul>
+ <li>Projekt <a href="https://github.com/lukas2311/Audio_Spectrum_Analyser-Lukas-Torben/blob/master/README.md">"Spektrum-Analyser"</a> für einen großen Teil des codens mit GitHub</li>
+ <li>[Hier Text einfügen]<a href="Hier Link einsetzen">Name des Objektes</a>...</li>
