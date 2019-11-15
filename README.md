@@ -59,6 +59,4 @@ Es folgt zu dem Projekt eine <a href="#komponenten">Komponentenliste</a>, eine <
 <br>
 <h2 id="code">Der Code</h2>
 <br>
-Als Erstes wird mit dem Befehl <br> <p><img width="200px" src="https://github.com/Florianovic/Useless-Box-Florian-Tobias/blob/master/CodeUB%20(2).PNG"></p> die Datenbank angesteuert, welche benötigt wird um die Servomotoren anzusteuern.
-<br>
-Dann wird mit dem Befehl <br> <p><img width="300px" scr="https://github.com/Florianovic/Useless-Box-Florian-Tobias/blob/master/CodeUB%20(3).PNG"></p> <br> dem Schalter, welcher das Skript später aktivieren wird eine Anschlusstelle auf dem Arduino zugewiesen.
+Als Erstes wird mit dem Befehl <p><src="https://github.com/Florianovic/Useless-Box-Florian-Tobias/blob/master/CodeUB%20(2).PNG"></p> die Datenbank angesteuert, welche benötigt wird um die Servomotoren anzusteuern.
