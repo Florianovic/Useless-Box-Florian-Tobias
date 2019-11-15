@@ -70,7 +70,7 @@ Als Letztes wird den beiden Servos ein Name zugewiesen. Wir haben uns der Einfac
 In diesem Schritt wird den Servos eine Anlaufstelle auf dem Arduino zugewiesen und dem Pin 12, an welchem der Schalter befestigt ist, signalisiert, dass an dieser Stelle ein Signal angenommen werden soll, also ein "Input" erwartet wird.
 
 <h3 id="loop">Der Loop</h3>
-Hier ist das Herzstück des Skriptes.
-In ersten Schritt wird festgelegt, dass wenn der Schalter umgelegt wird, also auf "High" gestellt wird, erst Servo "h" sich auf die Position 100 bewegt und den Deckel öffnet, dann eine Pause vonn einer halben Sekunde entsteht (der Arduino zählt in Millisekunden, desshalb 500) und sich schließlich Servo "z" auf die Position 70 bewegt. Das ist gerade so weit, damit der Schalter wieder umgelegt werden kann.
+Hier ist das Herzstück des Skriptes.</br>
+Im ersten Schritt wird festgelegt, dass wenn der Schalter umgelegt wird, also auf "High" gestellt wird, erst Servo "h" sich auf die Position 100 bewegt und den Deckel öffnet, dann eine Pause vonn einer halben Sekunde entsteht (der Arduino zählt in Millisekunden, desshalb 500) und sich schließlich Servo "z" auf die Position 70 bewegt. Das ist gerade so weit, damit der Schalter wieder umgelegt werden kann.
 <br>
 Im zweiten Schritt wird festgelegt, was passiert, wenn der Schalter nicht umgelegt ist oder, wie es in unserem Fall ist, wieder deaktiviert wurde. Zu erst bewegt sich die Servo "z" wieder in ihre Ausgangsposition bei 0. Danach ist wieder eine halbe Sekunde Pause bis sich Servo "h" in Bewegung setzt und sich ebenfalls auf Position 0 bewegt, womit der Deckel wieder geschlossen wird.
