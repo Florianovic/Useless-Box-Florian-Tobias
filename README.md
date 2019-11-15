@@ -60,6 +60,7 @@ Beide Servos verfügen über jeweils drei Kabel. Plus, Minus und Steuerkabel. Si
 An die Servos kommt jeweils noch eine Verlängerung. Für den Servo der den Deckel anhebt ein schlichter Hebel und an den zweiten Servo ein gebogenes Teil, welches über den Rand der Kiste zum Schalter reicht. Befestigt haben wir alle Komponenten mit doppelseitigem Klebeband und Sekundenkleber. Im Deckel der Kiste haben wir noch ein Stück Metall befestigt, was ihn schwerer macht und besser schließen lässt, was aufgrund der vielen Kabel bei uns ein Problem darstellte. Als kleinen Effekt haben wir einen Stoffwurm auf den Servoarm geklebt, welcher dann raus kommt um den Schalter umzulegen.
 
 
+
 ![Schaltung](https://github.com/Florianovic/Useless-Box-Florian-Tobias/blob/master/fertige%20Schaltung%20ganz.JPG)
 
 ![Box](https://github.com/Florianovic/Useless-Box-Florian-Tobias/blob/master/Box%20fertig.jpg)
