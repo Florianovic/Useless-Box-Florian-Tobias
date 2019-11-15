@@ -98,5 +98,6 @@ Das Endprodukt spricht für sich; angefügt ist ein Video der Useless-Box in akt
 <h2 id="quellen">Unsere Quellen</h2>
 Natürlich haben wir uns im Laufe dieses Projektes an mehreren Quellen bedient um dieses Endprodukt zu Schaffen:
 <ul>
+ <li>Das <a href="https://www.youtube.com/watch?v=cpdjQ0gheDQ">Video</a> an welchem wir uns orientiert haben</li>
  <li>Projekt <a href="https://github.com/lukas2311/Audio_Spectrum_Analyser-Lukas-Torben/blob/master/README.md">"Spektrum-Analyser"</a> für einen großen Teil der Sprache mit welcher GitHub funktioniert</li>
- <li>[Hier Text einfügen]<a href="Hier Link einsetzen">Name des Objektes</a>...</li>
+ 
