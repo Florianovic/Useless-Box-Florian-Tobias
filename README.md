@@ -103,7 +103,7 @@ else{ <br>
  h.write (0); <br>
 } <br><br>
 <h2 id="endprodukt">Das Endergebnis</h2>
-Das Endprodukt spricht für sich; angefügt ist ein Video der Useless-Box in aktion.
+Das Endprodukt spricht für sich; angefügt ist ein Video der Useless-Box in aktion.<br><br>
 <p align="center"><a href="https://www.youtube.com/watch?v=3LayQnIBA4o"><img src="https://github.com/tobias2215/InformatikFlorianTobias/blob/master/UB1.PNG" width="400px"><br>Link zum Video</a></p>
 
 Unser Stundenprotokoll https://github.com/Florianovic/InformatikFlorianTobias
