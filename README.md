@@ -106,7 +106,7 @@ else{ <br>
 Das Endprodukt spricht für sich; angefügt ist ein Video der Useless-Box in aktion.<br><br>
 <p align="center"><a href="https://www.youtube.com/watch?v=3LayQnIBA4o"><img src="https://github.com/tobias2215/InformatikFlorianTobias/blob/master/UB1.PNG" width="400px"><br>Link zum Video</a></p>
 
-Unser Stundenprotokoll https://github.com/Florianovic/InformatikFlorianTobias
+<a href="https://github.com/Florianovic/InformatikFlorianTobias">Unser Stundenprotokoll</a>
 
 <h2 id="quellen">Unsere Quellen</h2>
 Natürlich haben wir uns im Laufe dieses Projektes an mehreren Quellen bedient um dieses Endprodukt zu Schaffen:
