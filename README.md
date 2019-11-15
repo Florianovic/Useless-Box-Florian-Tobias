@@ -60,7 +60,7 @@ Es folgt zu dem Projekt eine <a href="#komponenten">Komponentenliste</a>, eine <
 <h2 id="code">Der Code</h2>
 <p><img width="400px" src="https://github.com/Florianovic/Useless-Box-Florian-Tobias/blob/master/CodeUB.PNG"></p> 
 <br>
-Als Erstes wird die Datenbank angesteuert, welche benötigt wird um die Servomotoren anzusteuern.
+Als Erstes wird die Datenbank angesteuert, welche benötigt wird um die Servomotoren anzusteuern.<br>
 
 #include<Servo.h>
 
@@ -70,16 +70,16 @@ Dann wird mit dem nächsten Befehl die Anlaufstelle für den Schalter definiert,
 const int buttonPin = 12
 <br>
 Als Letztes wird den beiden Servos ein Name zugewiesen. 
-<br>
-Servo h; <br>
-Servo z; <br>
+<br><br>
+Servo h;
+Servo z; <br><br>
 Wir haben uns der Einfachheit halber für "h" und "z" entschieden. "h" steht hierbei für Hand und "z" für Zunge, da es unser ursprünglicher Plan war, dass der Deckel von einer "Hand" angehoben wird und dann eine "Zunge" herrauskommt und den Schalter wieder umlegt.
 
 <h3 id="setup">Der Setup</h3>
 In diesem Schritt wird den Servos eine Anlaufstelle auf dem Arduino zugewiesen und dem Pin 12, an welchem der Schalter befestigt ist, signalisiert, dass an dieser Stelle ein Signal angenommen werden soll, also ein "Input" erwartet wird.<br><br>
 h.attach (10); <br>
 z.attach (11); <br>
-pinMode (buttonPin, INPUT); <br>
+pinMode (buttonPin, INPUT); <br><br>
 <h3 id="loop">Der Loop</h3>
 Hier ist das Herzstück des Skriptes.<br>
 Im ersten Schritt wird festgelegt, dass wenn der Schalter umgelegt wird, also auf "High" gestellt wird, erst Servo "h" sich auf die Position 100 bewegt und den Deckel öffnet, dann eine Pause vonn einer halben Sekunde entsteht (der Arduino zählt in Millisekunden, desshalb 500) und sich schließlich Servo "z" auf die Position 70 bewegt. Das ist gerade so weit, damit der Schalter wieder umgelegt werden kann. <br><br>
@@ -87,13 +87,13 @@ if (digitalRead (buttonPin) == HIGH) { <br>
  h.write (100); <br>
  delay(00; <br>
  h.write (70) <br>
-} <br>
-Im zweiten Schritt wird festgelegt, was passiert, wenn der Schalter nicht umgelegt ist oder, wie es in unserem Fall ist, wieder deaktiviert wurde. Zu erst bewegt sich die Servo "z" wieder in ihre Ausgangsposition bei 0. Danach ist wieder eine halbe Sekunde Pause bis sich Servo "h" in Bewegung setzt und sich ebenfalls auf Position 0 bewegt, womit der Deckel wieder geschlossen wird. <br>
+} <br><br>
+Im zweiten Schritt wird festgelegt, was passiert, wenn der Schalter nicht umgelegt ist oder, wie es in unserem Fall ist, wieder deaktiviert wurde. Zu erst bewegt sich die Servo "z" wieder in ihre Ausgangsposition bei 0. Danach ist wieder eine halbe Sekunde Pause bis sich Servo "h" in Bewegung setzt und sich ebenfalls auf Position 0 bewegt, womit der Deckel wieder geschlossen wird. <br><br>
 else{ <br>
  z.write (0); <br>
  delay(500); <br>
  h.write (0); <br>
-} <br>
+} <br><br>
 <h2 id="endprodukt">Das Endergebnis</h2>
 <p align="center"><a href="https://www.youtube.com/watch?v=3LayQnIBA4o"><img src="https://github.com/tobias2215/InformatikFlorianTobias/blob/master/UB1.PNG" width="400px"><br>Link zum Video</a></p>
 <h2 id="quellen">Unsere Quellen</h2>
