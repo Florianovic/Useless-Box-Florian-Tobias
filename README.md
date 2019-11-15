@@ -70,7 +70,9 @@ An die Servos kommt jeweils noch eine Verlängerung. Für den Servo der den Deck
 <p><img width="400px" src="https://github.com/Florianovic/Useless-Box-Florian-Tobias/blob/master/CodeUB.PNG"></p> 
 <br>
 Als Erstes wird die Datenbank angesteuert, welche benötigt wird um die Servomotoren anzusteuern.<br><br>
+```ruby
 #include (Servo.h)
+```
 <br>Die Klammern wurden Zwecks Programmfehlers verändert.
 <br><br>
 Dann wird mit dem nächsten Befehl die Anlaufstelle für den Schalter definiert, welcher am Ende das Skript aktiviert.
@@ -106,11 +108,14 @@ else{ <br>
 Das Endprodukt spricht für sich; angefügt ist ein Video der Useless-Box in aktion.
 <p align="center"><a href="https://www.youtube.com/watch?v=3LayQnIBA4o"><img src="https://github.com/tobias2215/InformatikFlorianTobias/blob/master/UB1.PNG" width="400px"><br>Link zum Video</a></p>
 
-Unser <a href="https://github.com/Florianovic/InformatikFlorianTobias">Stundenprotokoll</a> 
+Unser Stundenprotokoll https://github.com/Florianovic/InformatikFlorianTobias
+
 <h2 id="quellen">Unsere Quellen</h2>
 Natürlich haben wir uns im Laufe dieses Projektes an mehreren Quellen bedient um dieses Endprodukt zu Schaffen:
 <ul>
  <li>Das <a href="https://www.youtube.com/watch?v=cpdjQ0gheDQ">Video</a> an welchem wir uns orientiert haben</li>
- <li>Die Website von <a href="https://www.arduino.cc/"></a></li>
  <li>Projekt <a href="https://github.com/lukas2311/Audio_Spectrum_Analyser-Lukas-Torben/blob/master/README.md">"Spektrum-Analyser"</a> für einen großen Teil der Sprache mit welcher GitHub funktioniert</li>
  
+ https://www.youtube.com/watch?v=0wAY3DYihyg&list=PLAB63281B90FB376E
+ 
+ https://www.youtube.com/watch?v=PrMgJSGK0Ls&t=163s
