@@ -45,7 +45,9 @@ Es folgt zu dem Projekt eine <a href="#komponenten">Komponentenliste</a>, eine <
  </li>
  <li>
   Stromversorgung
- </a>
+ </li>
+ <li>
+  1x Wiederstand
  </li>
  <li>
   Diverse Kabel
